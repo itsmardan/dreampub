@@ -31,8 +31,10 @@
 
   <script>
     
+    if (localStorage.getItem("theme") === "dark") {
       document.documentElement.setAttribute("dark", "");
       document.documentElement.classList.add('dark-mode');
+    }
     
   </script>
 
@@ -139,6 +141,24 @@
 
           <div class="nav-button">
             
+            <div class="toggle-theme">
+              <div class="toggle-moon" title="Enable dark mode" aria-hidden="true">
+                <svg width="15" height="15" viewBox="0 0 1472 1536" xmlns="http://www.w3.org/2000/svg">
+                  <path fill="currentColor" d="M1464 1090q-94 203-283 323.5T768 1536q-157-1-299-62t-244.5-163.5T61 1066T0 768q0-205 97.5-378t267-276.5T738 2q43-2 62 38q17 42-16 72q-176 164-176 400q0 111 43 211.5t115 173t172.5 116T1151 1056q119 0 228-51q41-18 72 13t13 72"/>
+                </svg>
+                <span class="toggle-text">Dark</span>
+              </div>
+              <div class="toggle-sun" title="Enable light mode" aria-hidden="true">
+                <svg width="15" height="15" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                  <g fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="4">
+                    <path stroke-linecap="round" d="m9.15 9.15l2.228 2.228M3 24h3.15m3 14.85l2.228-2.228M38.85 38.85l-2.228-2.228M45 24h-3.15m-3-14.85l-2.228 2.228M24 3v3.15"/>
+                    <path fill="currentColor" d="M24 36c6.627 0 12-5.373 12-12s-5.373-12-12-12s-12 5.373-12 12s5.373 12 12 12Z"/>
+                    <path stroke-linecap="round" d="M24 45v-3.15"/>
+                  </g>
+                </svg>
+                <span class="toggle-text">Light</span>
+              </div>
+            </div>
             
             
             <a href="/contact-us/" class="button cta-button">Get in Touch</a>
@@ -229,7 +249,6 @@
     margin: auto;
    
     padding: 30px;
-    color: #fff;
     box-shadow: 0 1px 1px rgba(0,0,0,0.1);
     border-radius: 8px;
   }
@@ -242,7 +261,6 @@
   .team-member {
     display: flex;
     align-items: center;
-    border-bottom: 1px solid #fff;
     padding: 20px 0;
   }
 
@@ -261,7 +279,7 @@
     flex: 1;
   }
 
-  /* .member-title {
+   .member-title {
     font-size: 24px;
     font-weight: bold;
    
@@ -296,7 +314,6 @@
     }
   }
 </style>
-<p>*/</p>
 
 <section class="section team-container py-5">
 
@@ -306,7 +323,7 @@
     <div class="member-info">
       <div class="member-title">Dr Wajid Khan - Founder</div>
       <p class="member-desc">Dr Khan is the visionary behind Dream Startup. With a PhD in Artificial Intelligence (2014) and a passion for innovation, he leads the team with a focus on creating sustainable and cost-effective solutions for businesses. His expertise in full-stack programming and digital marketing drives the company's success.</p>
-      <a href="mailto:drkhan@dreamstartup.co.uk" class="member-contact">drkhan@dreamstartup.co.uk</a>
+      <a href="mailto:drkhan@dreamstartup.co.uk">drkhan@dreamstartup.co.uk</a>
     </div>
   </div>
 
@@ -316,7 +333,7 @@
     <div class="member-info">
       <div class="member-title">David Gallo - Senior Project Manager</div>
       <p class="member-desc">David is dedicated to helping clients onboard and supporting them throughout their journey. His extensive experience in project managements and customer relations ensures that every client receives personalised and attentive service.</p>
-      <a href="mailto:david@dreamstartup.co.uk" class="member-contact">david@dreamstartup.co.uk</a>
+      <a href="mailto:david@dreamstartup.co.uk">david@dreamstartup.co.uk</a>
     </div>
   </div>
 
@@ -326,7 +343,7 @@
     <div class="member-info">
       <div class="member-title">Sara Kareem - Account Manager</div>
       <p class="member-desc">Sara excels in customer service and is always ready to assist clients with their needs. Her background in digital marketing helps bridge the gap between technical solutions and client satisfaction.</p>
-      <a href="mailto:sara@dreamstartup.co.uk" class="member-contact">sara@dreamstartup.co.uk</a>
+      <a href="mailto:sara@dreamstartup.co.uk">sara@dreamstartup.co.uk</a>
     </div>
   </div>
 
@@ -336,7 +353,7 @@
     <div class="member-info">
       <div class="member-title">Anila Kareem - Account Manager</div>
       <p class="member-desc">Anila is the go-to person for customer queries and support. Her commitment to excellent service ensures that clients have a seamless experience from start to finish.</p>
-      <a href="mailto:aniladreamstartup.co.uk" class="member-contact">anila@dreamstartup.co.uk</a>
+      <a href="mailto:aniladreamstartup.co.uk">anila@dreamstartup.co.uk</a>
     </div>
   </div>
 
@@ -346,7 +363,7 @@
     <div class="member-info">
       <div class="member-title">Emily Tuscana - Senior Developer</div>
       <p class="member-desc">Emily brings creativity and technical expertise to the team. Her skills in programming, web design and development ensure that every project is visually stunning and functionally robust.</p>
-      <a href="mailto:emily@dreamstartup.co.uk" class="member-contact">emily@dreamstartup.co.uk</a>
+      <a href="mailto:emily@dreamstartup.co.uk">emily@dreamstartup.co.uk</a>
     </div>
   </div>
 
@@ -356,7 +373,7 @@
     <div class="member-info">
       <div class="member-title">Shahzad Ahmad- Developer</div>
       <p class="member-desc">Ahamad's expertise in full stack development ensures that our clients' systems are not only beautiful but also responsive and user-friendly.</p>
-      <a href="mailto:ahmad@dreamstartup.co.uk" class="member-contact">ahmad@dreamstartup.co.uk</a>
+      <a href="mailto:ahmad@dreamstartup.co.uk">ahmad@dreamstartup.co.uk</a>
     </div>
   </div>
 
@@ -366,7 +383,7 @@
     <div class="member-info">
       <div class="member-title">Laila Naghai - Snr. Developer</div>
       <p class="member-desc">Laila is passionate about coding and design. She works closely with the our CTO to ensure that every project meets our high standards of quality.</p>
-      <a href="mailto:lailae@dreamstartup.co.uk" class="member-contact">laila@dreamstartup.co.uk</a>
+      <a href="mailto:lailae@dreamstartup.co.uk">laila@dreamstartup.co.uk</a>
     </div>
   </div>
 
@@ -376,7 +393,7 @@
     <div class="member-info">
       <div class="member-title">Taimur Khan - Project Manager</div>
       <p class="member-desc">Taimur coordinates our projects with precision and efficiency. His organisational skills and attention to detail ensure that projects are completed on time and to the highest quality.</p>
-      <a href="mailto:taimur@dreamstartup.co.uk" class="member-contact">taimur@dreamstartup.co.uk</a>
+      <a href="mailto:taimur@dreamstartup.co.uk">taimur@dreamstartup.co.uk</a>
     </div>
   </div>
 
@@ -386,7 +403,7 @@
     <div class="member-info">
       <div class="member-title">Maaz Khan - Creative Graphics Specialist</div>
       <p class="member-desc">Maaz is an expert in creative graphics strategies. His innovative approaches help clients reach their target audiences and achieve their marketing goals.</p>
-      <a href="mailto:samira@dreamstartup.co.uk" class="member-contact">maaz@dreamstartup.co.uk</a>
+      <a href="mailto:samira@dreamstartup.co.uk">maaz@dreamstartup.co.uk</a>
     </div>
   </div>
 </section>
