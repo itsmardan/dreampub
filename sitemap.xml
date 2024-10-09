@@ -2,66 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <!-- Loop through all regular pages, including _pages directory --><url>
-      <loc>https://dreamstartup.co.uk/about-us/</loc><lastmod>2024-09-24T18:00:20+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /about-us/</loc><lastmod>2024-10-09T20:33:30+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.8</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/about/</loc><lastmod>2024-09-24T18:00:20+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /about/</loc><lastmod>2024-10-09T20:33:30+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.8</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/contact-us/</loc><lastmod>2024-09-24T18:00:20+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /contact-us/</loc><lastmod>2024-10-09T20:33:30+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.8</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/events/</loc><lastmod>2024-09-24T18:00:20+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /digital-marketing-packages/</loc><lastmod>2024-10-09T20:33:30+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.8</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/tech-pulse-review/</loc><lastmod>2024-09-24T18:00:20+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /events/</loc><lastmod>2024-10-09T20:33:30+01:00</lastmod><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /tech-pulse-review/</loc><lastmod>2024-10-09T20:33:30+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.8</priority>
     </url><!-- Loop through all blog posts in _posts directory --><url>
-      <loc>https://dreamstartup.co.uk/website-development/</loc><lastmod>2024-09-24T15:20:00+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /website-development/</loc><lastmod>2024-09-24T15:20:00+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/website-design/</loc><lastmod>2024-09-24T13:01:35+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /website-design/</loc><lastmod>2024-09-24T13:01:35+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/posts/how-to-revamp-your-online-store-with-performing-paid-ads</loc><lastmod>2024-05-20T14:30:00+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /posts/how-to-revamp-your-online-store-with-performing-paid-ads</loc><lastmod>2024-05-20T14:30:00+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/posts/maximise-sales-with-shopify-store-setup-and-paid-ads</loc><lastmod>2024-05-20T14:15:00+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /posts/maximise-sales-with-shopify-store-setup-and-paid-ads</loc><lastmod>2024-05-20T14:15:00+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/posts/launch-your-shopify-store-with-expert-ad-accounts-setup</loc><lastmod>2024-05-20T14:00:00+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /posts/launch-your-shopify-store-with-expert-ad-accounts-setup</loc><lastmod>2024-05-20T14:00:00+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/posts/high-speed-web-apps-are-the-new-trend</loc><lastmod>2024-05-20T13:45:00+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /posts/high-speed-web-apps-are-the-new-trend</loc><lastmod>2024-05-20T13:45:00+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/posts/tranform-your-business-with-innovative-software-ai-automation</loc><lastmod>2024-05-20T13:30:00+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /posts/tranform-your-business-with-innovative-software-ai-automation</loc><lastmod>2024-05-20T13:30:00+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/posts/how-to-run-precision-email-marketing-campaigns</loc><lastmod>2024-05-20T13:00:00+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /posts/how-to-run-precision-email-marketing-campaigns</loc><lastmod>2024-05-20T13:00:00+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/posts/boost-your-reach-with-strategic-digital-marketing</loc><lastmod>2024-05-20T12:45:00+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /posts/boost-your-reach-with-strategic-digital-marketing</loc><lastmod>2024-05-20T12:45:00+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/posts/how-to-unlock-growth-with-custom-software</loc><lastmod>2024-05-20T12:30:00+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /posts/how-to-unlock-growth-with-custom-software</loc><lastmod>2024-05-20T12:30:00+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/posts/how-to-launch-your-startup-in-30-days</loc><lastmod>2024-05-20T12:00:00+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /posts/how-to-launch-your-startup-in-30-days</loc><lastmod>2024-05-20T12:00:00+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/posts/why-your-brand-needs-a-high-speed-website</loc><lastmod>2024-05-20T11:30:00+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /posts/why-your-brand-needs-a-high-speed-website</loc><lastmod>2024-05-20T11:30:00+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/posts/how-google-maps-can-save-you-thousands-every-year</loc><lastmod>2024-05-20T11:00:00+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /posts/how-google-maps-can-save-you-thousands-every-year</loc><lastmod>2024-05-20T11:00:00+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/posts/never-pay-for-website-hosting-again</loc><lastmod>2024-05-20T11:00:00+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /posts/never-pay-for-website-hosting-again</loc><lastmod>2024-05-20T11:00:00+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/posts/erase-your-brand-web-hosting-bill-forever</loc><lastmod>2024-05-20T10:30:00+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /posts/erase-your-brand-web-hosting-bill-forever</loc><lastmod>2024-05-20T10:30:00+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
-      <loc>https://dreamstartup.co.uk/posts/permanent-free-webhosting-for-your-custom-website</loc><lastmod>2024-01-07T12:01:35+00:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /posts/permanent-free-webhosting-for-your-custom-website</loc><lastmod>2024-01-07T12:01:35+00:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><!-- Optionally include files from the root directory --></urlset>
