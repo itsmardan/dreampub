@@ -267,6 +267,261 @@
 
 <p>Adopting these strategies allows you to maintain a professional and secure online presence without the ongoing costs associated with traditional web hosting.</p>
 
+<section id="full-width-packages">
+    <style>
+        /* Full Width Styling for this section */
+        #full-width-packages {
+            width: 100vw;
+            margin-left: calc(-50vw + 50%);
+            
+            padding: 20px 0;
+        }
+
+        /* Pricing Table Layout */
+        .pricing-table {
+            display: flex;
+            justify-content: space-between;
+            align-items: stretch;
+            flex-wrap: wrap;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Compact Pricing Plans */
+        .pricing-plan {
+            background-color: white;
+            border-radius: 6px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            padding: 15px;
+            width: 31%; /* Ensuring equal width */
+            transition: all 0.2s ease;
+            margin-bottom: 20px;
+            min-width: 280px;
+            font-size: 0.85rem; /* Compact font size */
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .pricing-plan:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+        }
+
+        /* Header of Pricing Cards */
+     /* Compact Header for Pricing Cards */
+.pricing-header {
+    padding: 5px 0; /* Reduced padding to make the header thinner */
+    text-align: center;
+    border-radius: 6px 6px 0 0;
+}
+
+/* Adjusting the Title Font Size */
+.pricing-header h3 {
+    font-size: 1.5rem; /* Reduced title font size for a compact look */
+    margin-bottom: 0;
+    font-weight: bold;
+    color:#d14984;
+
+}
+
+@media (max-width: 768px) {
+            .pricing-header h3 {
+                font-size: 1.1rem; 
+                font-weight: bold;
+            }
+        }
+
+/* Adjusting the Price Font Size */
+.pricing-header .price {
+    font-size: 1rem; /* Reduced price font size */
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    color:#d14984;
+}
+
+
+        /* Pricing Body Styling */
+        .pricing-body {
+            padding: 15px 0;
+            flex-grow: 1;
+            font-weight: bold;
+            color: #000;
+        }
+
+        .pricing-body ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .pricing-body ul li {
+            padding: 5px 0;
+            border-bottom: 1px solid #eee;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.8rem; /* Further reduced font size */
+        }
+
+        .pricing-body ul li:last-child {
+            border-bottom: none;
+        }
+
+        /* Green Tick for Included Features */
+        .pricing-body .tick {
+            color: #28a745;
+            font-weight: bold;
+        }
+
+        /* Cross for Not Included Features */
+        .pricing-body .cross {
+            color: red;
+            font-weight: bold;
+        }
+
+        /* Pricing Footer with CTA */
+        .pricing-footer {
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        .pricing-footer a {
+            text-decoration: none;
+            background-color: #28a745;
+            color: white;
+            padding: 8px 15px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            transition: background-color 0.3s ease;
+        }
+
+        .pricing-footer a:hover {
+            background-color: #218838;
+        }
+
+        /* Ensuring all boxes are the same height */
+        .pricing-plan {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        /* Responsive Design for Tablets and Mobiles */
+        @media (max-width: 1200px) {
+            .pricing-plan {
+                width: 45%;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .pricing-plan {
+                width: 90%;
+                margin: 0 auto 20px auto;
+            }
+        }
+    </style>
+
+    <div class="pricing-table">
+        <!-- Essential Plan -->
+        <div class="pricing-plan">
+            <div class="pricing-header">
+                <h3>Kickstart | £947 per month.</h3>
+            </div>
+            <div class="pricing-body">
+                <ul>
+                    <li>Website Management <span class="tick">✅ Included</span></li>
+                    <li>On-page SEO <span class="tick">✅ Included</span></li>
+                    <li>Link Building (5 Keywords) <span class="tick">✅ Included</span></li>
+                    <li>5 Hand Crafted Blog Posts <span class="tick">✅ Included</span></li>
+                    <li>5 Google News Press Releases<span class="tick">✅ Included</span></li>
+                    <li>5 Email Campaigns <span class="tick">✅ Included</span></li>
+                    <li>Google MyBusiness <span class="tick">✅ Included</span></li>
+                    <li>30 Social Media Posts <span class="tick">✅ Included</span></li>
+                    <li>Analytics &amp; Lead Tracking <span class="tick">✅ Included</span></li>
+                    <li>Cloud-based CRM  <span class="cross">❌ Not Included</span></li>
+                    <li>AI &amp; Data Analysis <span class="cross">❌ Not Included</span></li>
+                    <li>Facebook and Google Ads <span class="cross">❌ Not Included</span></li>
+                    <li>Remarketing &amp; Display <span class="cross">❌ Not Included</span></li>
+                    <li>Code Break-Warranty <span class="tick">✅ 3 Months</span></li>
+                    <li>Account Management <span class="tick">✅ Weekly</span></li>
+                    <li>Rolling Contract <span class="tick">✅ Cancel Anytime</span></li>
+
+
+                </ul>
+            </div>
+            <div class="pricing-footer">
+                <a href="https://buy.stripe.com/8wM4iEa4Ugtkf167sE">Start Your 14-Days Trial </a>
+            </div>
+        </div>
+
+        <!-- Growth Plan -->
+        <div class="pricing-plan">
+            <div class="pricing-header">
+                <h3>Accelerate | £1499 per month.</h3>
+            </div>
+            <div class="pricing-body">
+                <ul>
+                    <li>Website Management <span class="tick">✅ Included</span></li>
+                    <li>On-page SEO <span class="tick">✅ Included</span></li>
+                    <li>Link Building (10 Keywords) <span class="tick">✅ Included</span></li>
+                    <li>10 Hand Crafted Blog Posts <span class="tick">✅ Included</span></li>
+                    <li>10 Google News Press Releases<span class="tick">✅ Included</span></li>
+                    <li>10 Email Campaigns <span class="tick">✅ Included</span></li>
+                    <li>Google MyBusiness <span class="tick">✅ Included</span></li>
+                    <li>60 Social Media Posts <span class="tick">✅ Included</span></li>
+                    <li>Analytics &amp; Lead Tracking <span class="tick">✅ Included</span></li>
+                    <li>Cloud-based CRM  <span class="tick">✅ Included</span></li>
+                    <li>Limited AI &amp; Data Analysis <span class="tick">✅ Included</span></li>
+                    <li>Facebook and Google Ads <span class="cross">❌ Not Included</span></li>
+                    <li>Remarketing &amp; Display <span class="cross">❌ Not Included</span></li>
+                    <li>Code Break-Warranty <span class="tick">✅ 6 Months</span></li>
+                    <li>Account Management <span class="tick">✅ Bi-Weekly</span></li>
+                    <li>Rolling Contract <span class="tick">✅ Cancel Anytime</span></li>
+
+
+                </ul>
+            </div>
+            <div class="pricing-footer">
+                <a href="https://buy.stripe.com/14k3eA7WMb90bOU3cp">Start Your 14-Days Trial</a>
+            </div>
+        </div>
+
+        <!-- Pro Plan -->
+        <div class="pricing-plan">
+            <div class="pricing-header">
+                <h3>Enterprise | £2499 per month.</h3>
+            </div>
+            <div class="pricing-body">
+                <ul>
+                    <li>Unlimited Website Management <span class="tick">✅ Included</span></li>
+                    <li>Unlimited On-page SEO <span class="tick">✅ Included</span></li>
+                    <li>Link Building (Unlimited Keywords) <span class="tick">✅ Included</span></li>
+                    <li>Unlimited Hand Crafted Blog Posts <span class="tick">✅ Included</span></li>
+                    <li>Unlimited Google News Press Releases<span class="tick">✅ Included</span></li>
+                    <li>Unlimited Email Campaigns <span class="tick">✅ Included</span></li>
+                    <li>Google MyBusiness <span class="tick">✅ Included</span></li>
+                    <li>Unlimited Social Media Posts <span class="tick">✅ Included</span></li>
+                    <li>Analytics &amp; Lead Tracking <span class="tick">✅ Included</span></li>
+                    <li>Cloud-based CRM  <span class="tick">✅ Included</span></li>
+                    <li>Unlimited Data Analysis <span class="tick">✅ Included</span></li>
+                    <li>Facebook &amp; Google Ads <span class="tick">✅ Included</span></li>
+                    <li>Remarketing &amp; Display <span class="tick">✅ Included</span></li>
+                    <li>Code Break-Warranty <span class="tick">✅ 12 Months</span></li>
+                    <li>Account Management <span class="tick">✅ Daily</span></li>
+                    <li>Rolling Contract <span class="tick">✅ Cancel Anytime</span></li>
+
+
+                </ul>
+            </div>
+            <div class="pricing-footer">
+                <a href="https://buy.stripe.com/bIYaH2ela4KC5qw3cq">Start Your 14-Days Trial</a>
+            </div>
+        </div>
+    </div>
+</section>
+
 
     </div>
     <div class="post__share">

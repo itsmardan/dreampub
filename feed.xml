@@ -5,8 +5,8 @@
         <description>Entrepreneurs, with passion for a vision, invent the future they want. At Dream Startup, we transform your bsuiness into a standout brand.</description>
         <link> /</link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Oct 2024 14:09:30 +0100</pubDate>
-        <lastBuildDate>Thu, 10 Oct 2024 14:09:30 +0100</lastBuildDate>
+        <pubDate>Thu, 10 Oct 2024 20:25:23 +0100</pubDate>
+        <lastBuildDate>Thu, 10 Oct 2024 20:25:23 +0100</lastBuildDate>
         <generator>Jekyll v4.3.3</generator>
         
             <item>
@@ -110,6 +110,262 @@
 &lt;p&gt;If you’re ready to launch or &lt;strong&gt;rebuild your website&lt;/strong&gt; for future growth, we invite you to explore our &lt;a href=&quot;/offers/1/&quot;&gt; Web Development Services&lt;/a&gt;. Whether you’re a &lt;strong&gt;startup&lt;/strong&gt; looking to build from scratch or an established brand in need of a &lt;strong&gt;rebrand&lt;/strong&gt;, we have the expertise to help you succeed.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Start your journey&lt;/strong&gt; with a &lt;a href=&quot;/contact-us/&quot;&gt;free consultation&lt;/a&gt; today and turn your website into a powerful tool for business growth.&lt;/p&gt;
+
+&lt;section id=&quot;full-width-packages&quot;&gt;
+    &lt;style&gt;
+        /* Full Width Styling for this section */
+        #full-width-packages {
+            width: 100vw;
+            margin-left: calc(-50vw + 50%);
+            
+            padding: 20px 0;
+        }
+
+        /* Pricing Table Layout */
+        .pricing-table {
+            display: flex;
+            justify-content: space-between;
+            align-items: stretch;
+            flex-wrap: wrap;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Compact Pricing Plans */
+        .pricing-plan {
+            background-color: white;
+            border-radius: 6px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            padding: 15px;
+            width: 31%; /* Ensuring equal width */
+            transition: all 0.2s ease;
+            margin-bottom: 20px;
+            min-width: 280px;
+            font-size: 0.85rem; /* Compact font size */
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .pricing-plan:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+        }
+
+        /* Header of Pricing Cards */
+     /* Compact Header for Pricing Cards */
+.pricing-header {
+    padding: 5px 0; /* Reduced padding to make the header thinner */
+    text-align: center;
+    border-radius: 6px 6px 0 0;
+}
+
+/* Adjusting the Title Font Size */
+.pricing-header h3 {
+    font-size: 1.5rem; /* Reduced title font size for a compact look */
+    margin-bottom: 0;
+    font-weight: bold;
+    color:#d14984;
+
+}
+
+@media (max-width: 768px) {
+            .pricing-header h3 {
+                font-size: 1.1rem; 
+                font-weight: bold;
+            }
+        }
+
+/* Adjusting the Price Font Size */
+.pricing-header .price {
+    font-size: 1rem; /* Reduced price font size */
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    color:#d14984;
+}
+
+
+        /* Pricing Body Styling */
+        .pricing-body {
+            padding: 15px 0;
+            flex-grow: 1;
+            font-weight: bold;
+            color: #000;
+        }
+
+        .pricing-body ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .pricing-body ul li {
+            padding: 5px 0;
+            border-bottom: 1px solid #eee;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.8rem; /* Further reduced font size */
+        }
+
+        .pricing-body ul li:last-child {
+            border-bottom: none;
+        }
+
+        /* Green Tick for Included Features */
+        .pricing-body .tick {
+            color: #28a745;
+            font-weight: bold;
+        }
+
+        /* Cross for Not Included Features */
+        .pricing-body .cross {
+            color: red;
+            font-weight: bold;
+        }
+
+        /* Pricing Footer with CTA */
+        .pricing-footer {
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        .pricing-footer a {
+            text-decoration: none;
+            background-color: #28a745;
+            color: white;
+            padding: 8px 15px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            transition: background-color 0.3s ease;
+        }
+
+        .pricing-footer a:hover {
+            background-color: #218838;
+        }
+
+        /* Ensuring all boxes are the same height */
+        .pricing-plan {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        /* Responsive Design for Tablets and Mobiles */
+        @media (max-width: 1200px) {
+            .pricing-plan {
+                width: 45%;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .pricing-plan {
+                width: 90%;
+                margin: 0 auto 20px auto;
+            }
+        }
+    &lt;/style&gt;
+
+    &lt;div class=&quot;pricing-table&quot;&gt;
+        &lt;!-- Essential Plan --&gt;
+        &lt;div class=&quot;pricing-plan&quot;&gt;
+            &lt;div class=&quot;pricing-header&quot;&gt;
+                &lt;h3&gt;Kickstart | £947 per month.&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-body&quot;&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Website Management &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;On-page SEO &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Link Building (5 Keywords) &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;5 Hand Crafted Blog Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;5 Google News Press Releases&lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;5 Email Campaigns &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Google MyBusiness &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;30 Social Media Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Analytics &amp;amp; Lead Tracking &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Cloud-based CRM  &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;AI &amp;amp; Data Analysis &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Facebook and Google Ads &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Remarketing &amp;amp; Display &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Code Break-Warranty &lt;span class=&quot;tick&quot;&gt;✅ 3 Months&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Account Management &lt;span class=&quot;tick&quot;&gt;✅ Weekly&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Rolling Contract &lt;span class=&quot;tick&quot;&gt;✅ Cancel Anytime&lt;/span&gt;&lt;/li&gt;
+
+
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-footer&quot;&gt;
+                &lt;a href=&quot;https://buy.stripe.com/8wM4iEa4Ugtkf167sE&quot;&gt;Start Your 14-Days Trial &lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;!-- Growth Plan --&gt;
+        &lt;div class=&quot;pricing-plan&quot;&gt;
+            &lt;div class=&quot;pricing-header&quot;&gt;
+                &lt;h3&gt;Accelerate | £1499 per month.&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-body&quot;&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Website Management &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;On-page SEO &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Link Building (10 Keywords) &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;10 Hand Crafted Blog Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;10 Google News Press Releases&lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;10 Email Campaigns &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Google MyBusiness &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;60 Social Media Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Analytics &amp;amp; Lead Tracking &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Cloud-based CRM  &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Limited AI &amp;amp; Data Analysis &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Facebook and Google Ads &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Remarketing &amp;amp; Display &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Code Break-Warranty &lt;span class=&quot;tick&quot;&gt;✅ 6 Months&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Account Management &lt;span class=&quot;tick&quot;&gt;✅ Bi-Weekly&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Rolling Contract &lt;span class=&quot;tick&quot;&gt;✅ Cancel Anytime&lt;/span&gt;&lt;/li&gt;
+
+
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-footer&quot;&gt;
+                &lt;a href=&quot;https://buy.stripe.com/14k3eA7WMb90bOU3cp&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;!-- Pro Plan --&gt;
+        &lt;div class=&quot;pricing-plan&quot;&gt;
+            &lt;div class=&quot;pricing-header&quot;&gt;
+                &lt;h3&gt;Enterprise | £2499 per month.&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-body&quot;&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Unlimited Website Management &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited On-page SEO &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Link Building (Unlimited Keywords) &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited Hand Crafted Blog Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited Google News Press Releases&lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited Email Campaigns &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Google MyBusiness &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited Social Media Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Analytics &amp;amp; Lead Tracking &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Cloud-based CRM  &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited Data Analysis &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Facebook &amp;amp; Google Ads &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Remarketing &amp;amp; Display &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Code Break-Warranty &lt;span class=&quot;tick&quot;&gt;✅ 12 Months&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Account Management &lt;span class=&quot;tick&quot;&gt;✅ Daily&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Rolling Contract &lt;span class=&quot;tick&quot;&gt;✅ Cancel Anytime&lt;/span&gt;&lt;/li&gt;
+
+
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-footer&quot;&gt;
+                &lt;a href=&quot;https://buy.stripe.com/bIYaH2ela4KC5qw3cq&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
 </description>
                 <pubDate>Tue, 24 Sep 2024 15:20:00 +0100</pubDate>
                 <link>/website-development/</link>
@@ -255,6 +511,262 @@
 &lt;blockquote&gt;
   &lt;p&gt;Start your journey today!&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;section id=&quot;full-width-packages&quot;&gt;
+    &lt;style&gt;
+        /* Full Width Styling for this section */
+        #full-width-packages {
+            width: 100vw;
+            margin-left: calc(-50vw + 50%);
+            
+            padding: 20px 0;
+        }
+
+        /* Pricing Table Layout */
+        .pricing-table {
+            display: flex;
+            justify-content: space-between;
+            align-items: stretch;
+            flex-wrap: wrap;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Compact Pricing Plans */
+        .pricing-plan {
+            background-color: white;
+            border-radius: 6px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            padding: 15px;
+            width: 31%; /* Ensuring equal width */
+            transition: all 0.2s ease;
+            margin-bottom: 20px;
+            min-width: 280px;
+            font-size: 0.85rem; /* Compact font size */
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .pricing-plan:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+        }
+
+        /* Header of Pricing Cards */
+     /* Compact Header for Pricing Cards */
+.pricing-header {
+    padding: 5px 0; /* Reduced padding to make the header thinner */
+    text-align: center;
+    border-radius: 6px 6px 0 0;
+}
+
+/* Adjusting the Title Font Size */
+.pricing-header h3 {
+    font-size: 1.5rem; /* Reduced title font size for a compact look */
+    margin-bottom: 0;
+    font-weight: bold;
+    color:#d14984;
+
+}
+
+@media (max-width: 768px) {
+            .pricing-header h3 {
+                font-size: 1.1rem; 
+                font-weight: bold;
+            }
+        }
+
+/* Adjusting the Price Font Size */
+.pricing-header .price {
+    font-size: 1rem; /* Reduced price font size */
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    color:#d14984;
+}
+
+
+        /* Pricing Body Styling */
+        .pricing-body {
+            padding: 15px 0;
+            flex-grow: 1;
+            font-weight: bold;
+            color: #000;
+        }
+
+        .pricing-body ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .pricing-body ul li {
+            padding: 5px 0;
+            border-bottom: 1px solid #eee;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.8rem; /* Further reduced font size */
+        }
+
+        .pricing-body ul li:last-child {
+            border-bottom: none;
+        }
+
+        /* Green Tick for Included Features */
+        .pricing-body .tick {
+            color: #28a745;
+            font-weight: bold;
+        }
+
+        /* Cross for Not Included Features */
+        .pricing-body .cross {
+            color: red;
+            font-weight: bold;
+        }
+
+        /* Pricing Footer with CTA */
+        .pricing-footer {
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        .pricing-footer a {
+            text-decoration: none;
+            background-color: #28a745;
+            color: white;
+            padding: 8px 15px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            transition: background-color 0.3s ease;
+        }
+
+        .pricing-footer a:hover {
+            background-color: #218838;
+        }
+
+        /* Ensuring all boxes are the same height */
+        .pricing-plan {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        /* Responsive Design for Tablets and Mobiles */
+        @media (max-width: 1200px) {
+            .pricing-plan {
+                width: 45%;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .pricing-plan {
+                width: 90%;
+                margin: 0 auto 20px auto;
+            }
+        }
+    &lt;/style&gt;
+
+    &lt;div class=&quot;pricing-table&quot;&gt;
+        &lt;!-- Essential Plan --&gt;
+        &lt;div class=&quot;pricing-plan&quot;&gt;
+            &lt;div class=&quot;pricing-header&quot;&gt;
+                &lt;h3&gt;Kickstart | £947 per month.&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-body&quot;&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Website Management &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;On-page SEO &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Link Building (5 Keywords) &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;5 Hand Crafted Blog Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;5 Google News Press Releases&lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;5 Email Campaigns &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Google MyBusiness &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;30 Social Media Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Analytics &amp;amp; Lead Tracking &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Cloud-based CRM  &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;AI &amp;amp; Data Analysis &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Facebook and Google Ads &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Remarketing &amp;amp; Display &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Code Break-Warranty &lt;span class=&quot;tick&quot;&gt;✅ 3 Months&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Account Management &lt;span class=&quot;tick&quot;&gt;✅ Weekly&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Rolling Contract &lt;span class=&quot;tick&quot;&gt;✅ Cancel Anytime&lt;/span&gt;&lt;/li&gt;
+
+
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-footer&quot;&gt;
+                &lt;a href=&quot;https://buy.stripe.com/8wM4iEa4Ugtkf167sE&quot;&gt;Start Your 14-Days Trial &lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;!-- Growth Plan --&gt;
+        &lt;div class=&quot;pricing-plan&quot;&gt;
+            &lt;div class=&quot;pricing-header&quot;&gt;
+                &lt;h3&gt;Accelerate | £1499 per month.&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-body&quot;&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Website Management &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;On-page SEO &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Link Building (10 Keywords) &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;10 Hand Crafted Blog Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;10 Google News Press Releases&lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;10 Email Campaigns &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Google MyBusiness &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;60 Social Media Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Analytics &amp;amp; Lead Tracking &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Cloud-based CRM  &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Limited AI &amp;amp; Data Analysis &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Facebook and Google Ads &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Remarketing &amp;amp; Display &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Code Break-Warranty &lt;span class=&quot;tick&quot;&gt;✅ 6 Months&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Account Management &lt;span class=&quot;tick&quot;&gt;✅ Bi-Weekly&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Rolling Contract &lt;span class=&quot;tick&quot;&gt;✅ Cancel Anytime&lt;/span&gt;&lt;/li&gt;
+
+
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-footer&quot;&gt;
+                &lt;a href=&quot;https://buy.stripe.com/14k3eA7WMb90bOU3cp&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;!-- Pro Plan --&gt;
+        &lt;div class=&quot;pricing-plan&quot;&gt;
+            &lt;div class=&quot;pricing-header&quot;&gt;
+                &lt;h3&gt;Enterprise | £2499 per month.&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-body&quot;&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Unlimited Website Management &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited On-page SEO &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Link Building (Unlimited Keywords) &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited Hand Crafted Blog Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited Google News Press Releases&lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited Email Campaigns &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Google MyBusiness &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited Social Media Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Analytics &amp;amp; Lead Tracking &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Cloud-based CRM  &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited Data Analysis &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Facebook &amp;amp; Google Ads &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Remarketing &amp;amp; Display &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Code Break-Warranty &lt;span class=&quot;tick&quot;&gt;✅ 12 Months&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Account Management &lt;span class=&quot;tick&quot;&gt;✅ Daily&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Rolling Contract &lt;span class=&quot;tick&quot;&gt;✅ Cancel Anytime&lt;/span&gt;&lt;/li&gt;
+
+
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-footer&quot;&gt;
+                &lt;a href=&quot;https://buy.stripe.com/bIYaH2ela4KC5qw3cq&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
 </description>
                 <pubDate>Tue, 24 Sep 2024 13:01:35 +0100</pubDate>
                 <link>/website-design/</link>
@@ -703,6 +1215,261 @@
 &lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 
 &lt;p&gt;Investing in custom software is a strategic move that can unlock substantial growth for your business. By providing tailored solutions, scalability, enhanced security, and better integration, custom software empowers your business to operate at its full potential. Embrace the possibilities of custom software to drive innovation, efficiency, and success in your business journey.&lt;/p&gt;
+
+&lt;section id=&quot;full-width-packages&quot;&gt;
+    &lt;style&gt;
+        /* Full Width Styling for this section */
+        #full-width-packages {
+            width: 100vw;
+            margin-left: calc(-50vw + 50%);
+            
+            padding: 20px 0;
+        }
+
+        /* Pricing Table Layout */
+        .pricing-table {
+            display: flex;
+            justify-content: space-between;
+            align-items: stretch;
+            flex-wrap: wrap;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Compact Pricing Plans */
+        .pricing-plan {
+            background-color: white;
+            border-radius: 6px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            padding: 15px;
+            width: 31%; /* Ensuring equal width */
+            transition: all 0.2s ease;
+            margin-bottom: 20px;
+            min-width: 280px;
+            font-size: 0.85rem; /* Compact font size */
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .pricing-plan:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+        }
+
+        /* Header of Pricing Cards */
+     /* Compact Header for Pricing Cards */
+.pricing-header {
+    padding: 5px 0; /* Reduced padding to make the header thinner */
+    text-align: center;
+    border-radius: 6px 6px 0 0;
+}
+
+/* Adjusting the Title Font Size */
+.pricing-header h3 {
+    font-size: 1.5rem; /* Reduced title font size for a compact look */
+    margin-bottom: 0;
+    font-weight: bold;
+    color:#d14984;
+
+}
+
+@media (max-width: 768px) {
+            .pricing-header h3 {
+                font-size: 1.1rem; 
+                font-weight: bold;
+            }
+        }
+
+/* Adjusting the Price Font Size */
+.pricing-header .price {
+    font-size: 1rem; /* Reduced price font size */
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    color:#d14984;
+}
+
+
+        /* Pricing Body Styling */
+        .pricing-body {
+            padding: 15px 0;
+            flex-grow: 1;
+            font-weight: bold;
+            color: #000;
+        }
+
+        .pricing-body ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .pricing-body ul li {
+            padding: 5px 0;
+            border-bottom: 1px solid #eee;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.8rem; /* Further reduced font size */
+        }
+
+        .pricing-body ul li:last-child {
+            border-bottom: none;
+        }
+
+        /* Green Tick for Included Features */
+        .pricing-body .tick {
+            color: #28a745;
+            font-weight: bold;
+        }
+
+        /* Cross for Not Included Features */
+        .pricing-body .cross {
+            color: red;
+            font-weight: bold;
+        }
+
+        /* Pricing Footer with CTA */
+        .pricing-footer {
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        .pricing-footer a {
+            text-decoration: none;
+            background-color: #28a745;
+            color: white;
+            padding: 8px 15px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            transition: background-color 0.3s ease;
+        }
+
+        .pricing-footer a:hover {
+            background-color: #218838;
+        }
+
+        /* Ensuring all boxes are the same height */
+        .pricing-plan {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        /* Responsive Design for Tablets and Mobiles */
+        @media (max-width: 1200px) {
+            .pricing-plan {
+                width: 45%;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .pricing-plan {
+                width: 90%;
+                margin: 0 auto 20px auto;
+            }
+        }
+    &lt;/style&gt;
+
+    &lt;div class=&quot;pricing-table&quot;&gt;
+        &lt;!-- Essential Plan --&gt;
+        &lt;div class=&quot;pricing-plan&quot;&gt;
+            &lt;div class=&quot;pricing-header&quot;&gt;
+                &lt;h3&gt;Kickstart | £947 per month.&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-body&quot;&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Website Management &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;On-page SEO &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Link Building (5 Keywords) &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;5 Hand Crafted Blog Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;5 Google News Press Releases&lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;5 Email Campaigns &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Google MyBusiness &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;30 Social Media Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Analytics &amp;amp; Lead Tracking &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Cloud-based CRM  &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;AI &amp;amp; Data Analysis &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Facebook and Google Ads &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Remarketing &amp;amp; Display &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Code Break-Warranty &lt;span class=&quot;tick&quot;&gt;✅ 3 Months&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Account Management &lt;span class=&quot;tick&quot;&gt;✅ Weekly&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Rolling Contract &lt;span class=&quot;tick&quot;&gt;✅ Cancel Anytime&lt;/span&gt;&lt;/li&gt;
+
+
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-footer&quot;&gt;
+                &lt;a href=&quot;https://buy.stripe.com/8wM4iEa4Ugtkf167sE&quot;&gt;Start Your 14-Days Trial &lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;!-- Growth Plan --&gt;
+        &lt;div class=&quot;pricing-plan&quot;&gt;
+            &lt;div class=&quot;pricing-header&quot;&gt;
+                &lt;h3&gt;Accelerate | £1499 per month.&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-body&quot;&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Website Management &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;On-page SEO &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Link Building (10 Keywords) &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;10 Hand Crafted Blog Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;10 Google News Press Releases&lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;10 Email Campaigns &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Google MyBusiness &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;60 Social Media Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Analytics &amp;amp; Lead Tracking &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Cloud-based CRM  &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Limited AI &amp;amp; Data Analysis &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Facebook and Google Ads &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Remarketing &amp;amp; Display &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Code Break-Warranty &lt;span class=&quot;tick&quot;&gt;✅ 6 Months&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Account Management &lt;span class=&quot;tick&quot;&gt;✅ Bi-Weekly&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Rolling Contract &lt;span class=&quot;tick&quot;&gt;✅ Cancel Anytime&lt;/span&gt;&lt;/li&gt;
+
+
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-footer&quot;&gt;
+                &lt;a href=&quot;https://buy.stripe.com/14k3eA7WMb90bOU3cp&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;!-- Pro Plan --&gt;
+        &lt;div class=&quot;pricing-plan&quot;&gt;
+            &lt;div class=&quot;pricing-header&quot;&gt;
+                &lt;h3&gt;Enterprise | £2499 per month.&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-body&quot;&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Unlimited Website Management &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited On-page SEO &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Link Building (Unlimited Keywords) &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited Hand Crafted Blog Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited Google News Press Releases&lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited Email Campaigns &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Google MyBusiness &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited Social Media Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Analytics &amp;amp; Lead Tracking &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Cloud-based CRM  &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Unlimited Data Analysis &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Facebook &amp;amp; Google Ads &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Remarketing &amp;amp; Display &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Code Break-Warranty &lt;span class=&quot;tick&quot;&gt;✅ 12 Months&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Account Management &lt;span class=&quot;tick&quot;&gt;✅ Daily&lt;/span&gt;&lt;/li&gt;
+                    &lt;li&gt;Rolling Contract &lt;span class=&quot;tick&quot;&gt;✅ Cancel Anytime&lt;/span&gt;&lt;/li&gt;
+
+
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;pricing-footer&quot;&gt;
+                &lt;a href=&quot;https://buy.stripe.com/bIYaH2ela4KC5qw3cq&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
 
 </description>
                 <pubDate>Mon, 20 May 2024 12:30:00 +0100</pubDate>
