@@ -1,25 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Loop through all regular pages, including _pages directory --><url>
-      <loc> /about-us/</loc><lastmod>2024-10-17T21:06:21+01:00</lastmod><changefreq>monthly</changefreq>
+  <!-- Loop through all HTML pages --><url>
+      <loc> /uk/web-development/Belfast/</loc><changefreq>monthly</changefreq>
       <priority>0.8</priority>
     </url><url>
-      <loc> /about/</loc><lastmod>2024-10-17T21:06:21+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /uk/web-development/Birkenhead/</loc><changefreq>monthly</changefreq>
       <priority>0.8</priority>
     </url><url>
-      <loc> /contact-us/</loc><lastmod>2024-10-17T21:06:21+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /uk/web-development/Birmingham/</loc><changefreq>monthly</changefreq>
       <priority>0.8</priority>
     </url><url>
-      <loc> /digital-marketing-packages/</loc><lastmod>2024-10-17T21:06:21+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /uk/web-development/Bradford/</loc><changefreq>monthly</changefreq>
       <priority>0.8</priority>
     </url><url>
-      <loc> /events/</loc><lastmod>2024-10-17T21:06:21+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /uk/web-development/Bristol/</loc><changefreq>monthly</changefreq>
       <priority>0.8</priority>
     </url><url>
-      <loc> /tech-pulse-review/</loc><lastmod>2024-10-17T21:06:21+01:00</lastmod><changefreq>monthly</changefreq>
+      <loc> /uk/web-development/Cardiff/</loc><changefreq>monthly</changefreq>
       <priority>0.8</priority>
-    </url><!-- Loop through all blog posts in _posts directory --><url>
+    </url><url>
+      <loc> /uk/web-development/City-of-Westminster/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/coventry/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Derby/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Edinburgh/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Glasgow/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Islington/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Kingston-upon-Hull/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Leeds/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Leicester/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/liverpool/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/london/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Luton/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Manchester/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Newport/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Nottingham/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Plymouth/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Preston/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Reading/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Sheffield/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Southampton/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Southend-on-Sea/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Stoke-on-Trent/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/sunderland/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Swansea/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/Wolverhampton/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /insights/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /portfolio/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /posts/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /offers/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /projects/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /uk/web-development/service-locations/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><url>
+      <loc> /posts/2/</loc><changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url><!-- Loop through all blog posts --><url>
       <loc> /website-development/</loc><lastmod>2024-09-24T15:20:00+01:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url><url>
@@ -67,4 +166,4 @@
     </url><url>
       <loc> /posts/permanent-free-webhosting-for-your-custom-website</loc><lastmod>2024-01-07T12:01:35+00:00</lastmod><changefreq>monthly</changefreq>
       <priority>0.6</priority>
-    </url><!-- Optionally include files from the root directory --></urlset>
+    </url><!-- Optionally include static files --></urlset>
