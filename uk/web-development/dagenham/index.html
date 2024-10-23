@@ -9,7 +9,7 @@
   <title>Web Development Dagenham  Dreamstartup UK Rethink Marketing and Branding </title>
   <meta name='description' content='Professional web development services in Dagenham, offering bespoke websites, e-commerce platforms, and digital marketing solutions to help businesses grow o...'>
 
-  <link rel="canonical" href="http://localhost:4000/uk/web-development/dagenham/">
+  <link rel="canonical" href="/uk/web-development/dagenham/">
   <link rel="alternate" type="application/rss+xml" title="" href="/feed.xml">
 
   <!-- Twitter Card -->
@@ -1974,28 +1974,7 @@
   });
 </script>
 
-<script type="text/javascript">
-  document.addEventListener('DOMContentLoaded', function () {
-    const currentURL = window.location.href;
-    
-    // Extract the path for the section (e.g., digital-marketing-agency, web-development, website-design)
-    const sectionPath = currentURL.match(/\/uk\/(digital-marketing-agency|web-development|website-design)\/(.*?)(\/|$)/i);
-    
-    if (sectionPath) {
-      const section = sectionPath[1];
-      const townName = sectionPath[2];
-      
-      // Capitalise the first letter of the town name if it's not already capitalised
-      const correctedTownName = townName.charAt(0).toUpperCase() + townName.slice(1).toLowerCase();
-      
-      // If the town name in the URL is not correctly capitalised, redirect to the correct version
-      if (townName !== correctedTownName) {
-        const newURL = currentURL.replace(townName, correctedTownName);
-        window.location.href = newURL;
-      }
-    }
-  });
-</script>
+
   </main>
   <!-- end content -->
 
