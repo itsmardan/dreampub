@@ -5,9 +5,485 @@
         <description>Entrepreneurs, with passion for a vision, invent the future they want. At Dream Startup, we transform your bsuiness into a standout brand.</description>
         <link> /</link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 Nov 2024 15:15:21 +0000</pubDate>
-        <lastBuildDate>Sat, 02 Nov 2024 15:15:21 +0000</lastBuildDate>
+        <pubDate>Thu, 07 Nov 2024 13:08:39 +0000</pubDate>
+        <lastBuildDate>Thu, 07 Nov 2024 13:08:39 +0000</lastBuildDate>
         <generator>Jekyll v4.3.3</generator>
+        
+            <item>
+                <title>Wix and WordPress Are Killing Your Brand in the Long Run</title>
+                <description>&lt;h2 id=&quot;shift&quot;&gt;Shift&lt;/h2&gt;
+
+&lt;p&gt;Wix and WordPress may seem convenient, but in the long run, they can hurt your brand. Short-term ease often leads to long-term technical debt.&lt;/p&gt;
+
+&lt;h2 id=&quot;complexity&quot;&gt;Complexity&lt;/h2&gt;
+
+&lt;p&gt;Their architecture is complex and bloated. Every feature and plugin adds layers of code that slow down your site. Customers expect speed, not sluggishness.&lt;/p&gt;
+
+&lt;h2 id=&quot;security&quot;&gt;Security&lt;/h2&gt;
+
+&lt;p&gt;Relying on plugins brings security risks. Each plugin increases vulnerabilities, making your site a target for cyber-attacks. Data security must always be a priority.&lt;/p&gt;
+
+&lt;h2 id=&quot;performance&quot;&gt;Performance&lt;/h2&gt;
+
+&lt;p&gt;A sluggish website damages user experience. Slow load times mean lost visitors, and every second counts. Businesses need a responsive, quick-loading platform.&lt;/p&gt;
+
+&lt;h2 id=&quot;control&quot;&gt;Control&lt;/h2&gt;
+
+&lt;p&gt;Wix and WordPress dictate how your site functions. Hosting choices, limitations, and required updates reduce your control, ultimately limiting your brand’s growth.&lt;/p&gt;
+
+&lt;h2 id=&quot;open-source&quot;&gt;Open-Source&lt;/h2&gt;
+
+&lt;p&gt;Open-source architecture offers total flexibility. Rather than relying on third-party restrictions, brands using open-source retain complete control of site design and function.&lt;/p&gt;
+
+&lt;h2 id=&quot;freedom&quot;&gt;Freedom&lt;/h2&gt;
+
+&lt;p&gt;Serverless systems mean freedom from constant updates, plugin maintenance, and costly hosting. Focusing on what matters is easier when freed from ongoing technical issues.&lt;/p&gt;
+
+&lt;h2 id=&quot;cost&quot;&gt;Cost&lt;/h2&gt;
+
+&lt;p&gt;Reducing reliance on plugins means reducing costs. Traditional platforms often incur hidden fees, while serverless options like AWS or GitHub provide free hosting alternatives.&lt;/p&gt;
+
+&lt;h2 id=&quot;speed&quot;&gt;Speed&lt;/h2&gt;
+
+&lt;p&gt;Serverless architectures are optimised for speed. Websites load quickly and offer a smooth, enjoyable experience that keeps visitors engaged and coming back.&lt;/p&gt;
+
+&lt;h2 id=&quot;reliability&quot;&gt;Reliability&lt;/h2&gt;
+
+&lt;p&gt;Serverless systems are reliable and robust. Without a dependency on plugins, sites remain stable, reducing downtime and the risk of bugs or failures.&lt;/p&gt;
+
+&lt;h2 id=&quot;future&quot;&gt;Future&lt;/h2&gt;
+
+&lt;p&gt;Building on serverless architecture ensures that your site can evolve seamlessly. The digital future is fast and responsive, and your brand must keep pace.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Schedule a free consultation&lt;/strong&gt; to explore how we can elevate your business.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;containerp&quot;&gt;
+  &lt;div class=&quot;row justify-content-center pb-5&quot;&gt;
+    &lt;div class=&quot;col-md-8&quot;&gt;
+      &lt;div class=&quot;contact-form-container&quot;&gt;
+        &lt;div class=&quot;contact-form&quot;&gt;
+          &lt;h1&gt;We&apos;re very near you!&lt;/h1&gt;
+          &lt;form id=&quot;offer06form&quot; method=&quot;POST&quot;&gt;
+            &lt;!-- Grouping Full Name and Phone --&gt;
+            &lt;div class=&quot;form-group row&quot;&gt;
+              &lt;div class=&quot;col-md-6&quot;&gt;
+                &lt;label for=&quot;name&quot;&gt;Full Name:&lt;/label&gt;
+                &lt;input type=&quot;text&quot; id=&quot;name&quot; name=&quot;name&quot; class=&quot;form-control&quot; placeholder=&quot;Full Name&quot; required=&quot;&quot; /&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col-md-6&quot;&gt;
+                &lt;label for=&quot;phone&quot;&gt;Phone:&lt;/label&gt;
+                &lt;input type=&quot;tel&quot; id=&quot;phone&quot; name=&quot;phone&quot; class=&quot;form-control&quot; placeholder=&quot;Phone Number&quot; required=&quot;&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- Grouping Email and Website --&gt;
+            &lt;div class=&quot;form-group row&quot;&gt;
+              &lt;div class=&quot;col-md-6&quot;&gt;
+                &lt;label for=&quot;email&quot;&gt;Email:&lt;/label&gt;
+                &lt;input type=&quot;email&quot; id=&quot;email&quot; name=&quot;email&quot; class=&quot;form-control&quot; placeholder=&quot;Email Address&quot; required=&quot;&quot; /&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col-md-6&quot;&gt;
+                &lt;label for=&quot;website&quot;&gt;Website:&lt;/label&gt;
+                &lt;input type=&quot;text&quot; id=&quot;website&quot; name=&quot;website&quot; class=&quot;form-control&quot; placeholder=&quot;Website Address&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+  
+            &lt;!-- Text area for requirements --&gt;
+            &lt;div class=&quot;form-group&quot;&gt;
+              &lt;label for=&quot;requirements&quot;&gt;Project Requirements:&lt;/label&gt;
+              &lt;textarea id=&quot;requirements&quot; name=&quot;requirements&quot; class=&quot;form-control&quot; placeholder=&quot;Describe your project requirements, features, and goals.&quot; rows=&quot;5&quot; required=&quot;&quot;&gt;&lt;/textarea&gt;
+            &lt;/div&gt;  
+
+            &lt;!-- Text area for additional information --&gt;
+            &lt;div class=&quot;form-group&quot;&gt;
+              &lt;label for=&quot;additional-info&quot;&gt;Provide Meet Dates/Times:&lt;/label&gt;
+              &lt;textarea id=&quot;additional-info&quot; name=&quot;additional-info&quot; class=&quot;form-control&quot; placeholder=&quot;Share your availability for intro meeting&quot; rows=&quot;3&quot;&gt;&lt;/textarea&gt;
+            &lt;/div&gt;
+
+            &lt;input type=&quot;hidden&quot; name=&quot;_captcha&quot; value=&quot;true&quot; /&gt;
+            &lt;input type=&quot;text&quot; name=&quot;_confirm_email&quot; style=&quot;display:none&quot; /&gt;
+            &lt;input type=&quot;hidden&quot; name=&quot;_subject&quot; value=&quot;Software Development Quote Request&quot; /&gt;
+            &lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;/thank-you/&quot; /&gt;
+            &lt;button type=&quot;submit&quot; class=&quot;btn btn-lg btn-primary btn-submit&quot;&gt;Get Started&lt;/button&gt;
+          &lt;/form&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+  .containerp {
+    background-color: rgba(255, 252, 192, 0.9); /* Light cream background */
+    padding: 50px;
+    border-radius: 8px;
+    border: 2px dotted #6495ED;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    max-width: 750px;
+    margin: auto;
+  }
+  
+  .contact-form h1 {
+    color: #444;
+    font-family: &apos;Trebuchet MS&apos;, sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px; /* Adjust margin for proper spacing */
+  }
+  
+  .form-group .col-md-6 {
+    padding: 0 15px; /* Padding for columns */
+    flex: 0 0 50%;
+    max-width: 50%; /* Ensures two fields per line */
+    margin-bottom: 15px; /* Add bottom margin for spacing */
+  }
+  
+  .form-group label {
+    display: block;
+    font-size: 16px;
+    color: #333;
+    font-family: &apos;Trebuchet MS&apos;, sans-serif;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-weight: bold;
+  }
+  
+  .form-control {
+    background-color: #f9f9f9;
+    border: 1px dotted #bbbbbb;
+    border-radius: 4px;
+    padding: 12px;
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  .form-control:focus {
+    border-color: #888;
+    box-shadow: 0 0 8px rgba(82, 168, 236, 0.6);
+  }
+  
+  .btn-submit {
+    background-color: #6495ED;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-top: 20px;
+    width: 100%;
+    transition: background-color 0.3s;
+  }
+  
+  .btn-submit:hover {
+    background-color: #4169E1;
+  }
+  
+  @media (max-width: 768px) {
+    .form-group .col-md-6 {
+      flex: 0 0 100%;
+      max-width: 100%; /* Full width on smaller screens */
+      margin-bottom: 15px; /* Ensure spacing remains consistent */
+    }
+  }
+&lt;/style&gt;
+
+&lt;script&gt;
+  document.getElementById(&apos;offer06form&apos;).addEventListener(&apos;submit&apos;, async function (e) {
+    e.preventDefault();  // Prevent the default form submission behavior
+    const formData = new FormData(this);
+
+    const data = {};
+    formData.forEach((value, key) =&gt; {
+      data[key] = value;
+    });
+
+    try {
+      // Attempt to send data to the server
+      const response = await fetch(&apos;https://api.submitjson.com/v1/submit/nrTJcZ8GM&apos;, {
+        method: &apos;POST&apos;,
+        headers: {
+          &apos;Content-Type&apos;: &apos;application/json&apos;,
+          &apos;X-API-Key&apos;: &apos;sjk_57541ca93b0441b98eebd0a3a0e91a21&apos;
+        },
+        body: JSON.stringify({ data })  // Wrap data in an object with a &apos;data&apos; key
+      });
+  
+      if (!response.ok) {
+        const errorData = await response.json();
+        console.error(&apos;Server response:&apos;, errorData);
+        throw new Error(`HTTP error! Status: ${response.status}`);  // Check if the server response was not OK
+      }
+  
+      const submission = await response.json();
+      console.log(&apos;Submitted data:&apos;, submission);  // Log the submission data for debugging
+  
+      // Redirect to the thank-you page
+      window.location.href = &apos;/thank-you/&apos;;
+    } catch (error) {
+      console.error(&apos;Fetch error:&apos;, error);
+      alert(&quot;Failed to submit form. Please try again.&quot;);
+    }
+  });
+&lt;/script&gt;
+
+&lt;h2 id=&quot;dream&quot;&gt;Dream&lt;/h2&gt;
+
+&lt;p&gt;DreamStartup specialises in serverless, open-source solutions. We eliminate technical debt and provide a stable, future-proof foundation. Our £0 technical debt systems ensure long-term brand success.&lt;/p&gt;
+
+&lt;h2 id=&quot;expertise&quot;&gt;Expertise&lt;/h2&gt;
+
+&lt;p&gt;Our team has mastered the art of building fast, scalable websites. From lightweight structures to seamless integrations, our sites are designed to grow with you.&lt;/p&gt;
+
+&lt;h2 id=&quot;flexibility&quot;&gt;Flexibility&lt;/h2&gt;
+
+&lt;p&gt;DreamStartup solutions adapt as your business changes. No restrictions, no compromise on quality. Flexibility is key to staying relevant and competitive.&lt;/p&gt;
+
+&lt;h2 id=&quot;simplicity&quot;&gt;Simplicity&lt;/h2&gt;
+
+&lt;p&gt;Our systems simplify website management. No hidden complexities, just a straightforward, reliable platform that lets you focus on what you do best.&lt;/p&gt;
+
+&lt;h2 id=&quot;value&quot;&gt;Value&lt;/h2&gt;
+
+&lt;p&gt;Investing in a serverless system saves money over time. Reduced dependency on plugins means fewer maintenance fees, helping you achieve a high ROI.&lt;/p&gt;
+
+&lt;h2 id=&quot;growth&quot;&gt;Growth&lt;/h2&gt;
+
+&lt;p&gt;A fast, secure website supports business growth. By choosing a stable foundation, you’re investing in a solution that scales with your success.&lt;/p&gt;
+
+&lt;h2 id=&quot;innovation&quot;&gt;Innovation&lt;/h2&gt;
+
+&lt;p&gt;Embrace innovation by moving beyond traditional platforms. Serverless technology enables you to focus on creative, growth-oriented solutions rather than constant site fixes.&lt;/p&gt;
+
+&lt;h2 id=&quot;trust&quot;&gt;Trust&lt;/h2&gt;
+
+&lt;p&gt;Your customers need a reliable, secure experience. Serverless platforms build trust, offering a seamless journey that keeps users engaged and satisfied.&lt;/p&gt;
+
+&lt;h2 id=&quot;power&quot;&gt;Power&lt;/h2&gt;
+
+&lt;p&gt;Power your brand with DreamStartup’s serverless &lt;a href=&quot;/offers/5/&quot;&gt;solutions&lt;/a&gt;. We handle the technical work, so your brand can focus on delivering impact and value.&lt;/p&gt;
+
+&lt;h2 id=&quot;future-proof&quot;&gt;Future-Proof&lt;/h2&gt;
+
+&lt;p&gt;A website built on modern, serverless architecture is future-proof. As trends evolve, so will your site, ensuring relevance and competitive advantage.&lt;/p&gt;
+
+&lt;h2 id=&quot;efficiency&quot;&gt;Efficiency&lt;/h2&gt;
+
+&lt;p&gt;Efficiency is essential for business success. Serverless systems remove redundancies, offering a streamlined, effective way to reach your audience.&lt;/p&gt;
+
+&lt;h2 id=&quot;engage&quot;&gt;Engage&lt;/h2&gt;
+
+&lt;p&gt;A fast, user-friendly website enhances engagement. Serverless technology optimises load times and responsiveness, creating an enjoyable user experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;transition&quot;&gt;Transition&lt;/h2&gt;
+
+&lt;p&gt;Transitioning from Wix or WordPress to serverless doesn’t mean losing features. Retain all necessary functions while enhancing stability and reducing risk.&lt;/p&gt;
+
+&lt;h2 id=&quot;advantage&quot;&gt;Advantage&lt;/h2&gt;
+
+&lt;p&gt;DreamStartup gives you an advantage in a &lt;a href=&quot;/tech-pulse-review/&quot;&gt;competitive market&lt;/a&gt;. Our solutions are built to last, ensuring your website remains a powerful brand asset.&lt;/p&gt;
+
+&lt;h2 id=&quot;experience&quot;&gt;Experience&lt;/h2&gt;
+
+&lt;p&gt;Our experience in serverless architecture is unmatched. Let DreamStartup transform your website into a dynamic, scalable asset that supports &lt;a href=&quot;/digital-marketing-packages/&quot;&gt;growth&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Schedule a free consultation&lt;/strong&gt; to explore how we can elevate your business.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;containerp&quot;&gt;
+  &lt;div class=&quot;row justify-content-center pb-5&quot;&gt;
+    &lt;div class=&quot;col-md-8&quot;&gt;
+      &lt;div class=&quot;contact-form-container&quot;&gt;
+        &lt;div class=&quot;contact-form&quot;&gt;
+          &lt;h1&gt;We&apos;re very near you!&lt;/h1&gt;
+          &lt;form id=&quot;offer06form&quot; method=&quot;POST&quot;&gt;
+            &lt;!-- Grouping Full Name and Phone --&gt;
+            &lt;div class=&quot;form-group row&quot;&gt;
+              &lt;div class=&quot;col-md-6&quot;&gt;
+                &lt;label for=&quot;name&quot;&gt;Full Name:&lt;/label&gt;
+                &lt;input type=&quot;text&quot; id=&quot;name&quot; name=&quot;name&quot; class=&quot;form-control&quot; placeholder=&quot;Full Name&quot; required=&quot;&quot; /&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col-md-6&quot;&gt;
+                &lt;label for=&quot;phone&quot;&gt;Phone:&lt;/label&gt;
+                &lt;input type=&quot;tel&quot; id=&quot;phone&quot; name=&quot;phone&quot; class=&quot;form-control&quot; placeholder=&quot;Phone Number&quot; required=&quot;&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;!-- Grouping Email and Website --&gt;
+            &lt;div class=&quot;form-group row&quot;&gt;
+              &lt;div class=&quot;col-md-6&quot;&gt;
+                &lt;label for=&quot;email&quot;&gt;Email:&lt;/label&gt;
+                &lt;input type=&quot;email&quot; id=&quot;email&quot; name=&quot;email&quot; class=&quot;form-control&quot; placeholder=&quot;Email Address&quot; required=&quot;&quot; /&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;col-md-6&quot;&gt;
+                &lt;label for=&quot;website&quot;&gt;Website:&lt;/label&gt;
+                &lt;input type=&quot;text&quot; id=&quot;website&quot; name=&quot;website&quot; class=&quot;form-control&quot; placeholder=&quot;Website Address&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+  
+            &lt;!-- Text area for requirements --&gt;
+            &lt;div class=&quot;form-group&quot;&gt;
+              &lt;label for=&quot;requirements&quot;&gt;Project Requirements:&lt;/label&gt;
+              &lt;textarea id=&quot;requirements&quot; name=&quot;requirements&quot; class=&quot;form-control&quot; placeholder=&quot;Describe your project requirements, features, and goals.&quot; rows=&quot;5&quot; required=&quot;&quot;&gt;&lt;/textarea&gt;
+            &lt;/div&gt;  
+
+            &lt;!-- Text area for additional information --&gt;
+            &lt;div class=&quot;form-group&quot;&gt;
+              &lt;label for=&quot;additional-info&quot;&gt;Provide Meet Dates/Times:&lt;/label&gt;
+              &lt;textarea id=&quot;additional-info&quot; name=&quot;additional-info&quot; class=&quot;form-control&quot; placeholder=&quot;Share your availability for intro meeting&quot; rows=&quot;3&quot;&gt;&lt;/textarea&gt;
+            &lt;/div&gt;
+
+            &lt;input type=&quot;hidden&quot; name=&quot;_captcha&quot; value=&quot;true&quot; /&gt;
+            &lt;input type=&quot;text&quot; name=&quot;_confirm_email&quot; style=&quot;display:none&quot; /&gt;
+            &lt;input type=&quot;hidden&quot; name=&quot;_subject&quot; value=&quot;Software Development Quote Request&quot; /&gt;
+            &lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;/thank-you/&quot; /&gt;
+            &lt;button type=&quot;submit&quot; class=&quot;btn btn-lg btn-primary btn-submit&quot;&gt;Get Started&lt;/button&gt;
+          &lt;/form&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+  .containerp {
+    background-color: rgba(255, 252, 192, 0.9); /* Light cream background */
+    padding: 50px;
+    border-radius: 8px;
+    border: 2px dotted #6495ED;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    max-width: 750px;
+    margin: auto;
+  }
+  
+  .contact-form h1 {
+    color: #444;
+    font-family: &apos;Trebuchet MS&apos;, sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px; /* Adjust margin for proper spacing */
+  }
+  
+  .form-group .col-md-6 {
+    padding: 0 15px; /* Padding for columns */
+    flex: 0 0 50%;
+    max-width: 50%; /* Ensures two fields per line */
+    margin-bottom: 15px; /* Add bottom margin for spacing */
+  }
+  
+  .form-group label {
+    display: block;
+    font-size: 16px;
+    color: #333;
+    font-family: &apos;Trebuchet MS&apos;, sans-serif;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-weight: bold;
+  }
+  
+  .form-control {
+    background-color: #f9f9f9;
+    border: 1px dotted #bbbbbb;
+    border-radius: 4px;
+    padding: 12px;
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  .form-control:focus {
+    border-color: #888;
+    box-shadow: 0 0 8px rgba(82, 168, 236, 0.6);
+  }
+  
+  .btn-submit {
+    background-color: #6495ED;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-top: 20px;
+    width: 100%;
+    transition: background-color 0.3s;
+  }
+  
+  .btn-submit:hover {
+    background-color: #4169E1;
+  }
+  
+  @media (max-width: 768px) {
+    .form-group .col-md-6 {
+      flex: 0 0 100%;
+      max-width: 100%; /* Full width on smaller screens */
+      margin-bottom: 15px; /* Ensure spacing remains consistent */
+    }
+  }
+&lt;/style&gt;
+
+&lt;script&gt;
+  document.getElementById(&apos;offer06form&apos;).addEventListener(&apos;submit&apos;, async function (e) {
+    e.preventDefault();  // Prevent the default form submission behavior
+    const formData = new FormData(this);
+
+    const data = {};
+    formData.forEach((value, key) =&gt; {
+      data[key] = value;
+    });
+
+    try {
+      // Attempt to send data to the server
+      const response = await fetch(&apos;https://api.submitjson.com/v1/submit/nrTJcZ8GM&apos;, {
+        method: &apos;POST&apos;,
+        headers: {
+          &apos;Content-Type&apos;: &apos;application/json&apos;,
+          &apos;X-API-Key&apos;: &apos;sjk_57541ca93b0441b98eebd0a3a0e91a21&apos;
+        },
+        body: JSON.stringify({ data })  // Wrap data in an object with a &apos;data&apos; key
+      });
+  
+      if (!response.ok) {
+        const errorData = await response.json();
+        console.error(&apos;Server response:&apos;, errorData);
+        throw new Error(`HTTP error! Status: ${response.status}`);  // Check if the server response was not OK
+      }
+  
+      const submission = await response.json();
+      console.log(&apos;Submitted data:&apos;, submission);  // Log the submission data for debugging
+  
+      // Redirect to the thank-you page
+      window.location.href = &apos;/thank-you/&apos;;
+    } catch (error) {
+      console.error(&apos;Fetch error:&apos;, error);
+      alert(&quot;Failed to submit form. Please try again.&quot;);
+    }
+  });
+&lt;/script&gt;
+
+&lt;hr /&gt;
+
+</description>
+                <pubDate>Tue, 24 Sep 2024 15:20:00 +0100</pubDate>
+                <link>/website-platforms/</link>
+                <guid isPermaLink="true">/website-platforms/</guid>
+                
+                <category>website builders</category>
+                
+                <category>branding</category>
+                
+                <category>open-source</category>
+                
+                
+            </item>
         
             <item>
                 <title>The Art and Science of Modern Web Development</title>
@@ -376,8 +852,6 @@
                 <category>custom solutions</category>
                 
                 <category>user experience</category>
-                
-                <category>business growth</category>
                 
                 
             </item>
@@ -1170,317 +1644,6 @@
                 <category>business growth</category>
                 
                 <category>strategy</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>How To Unlock Growth with Innovative Custom Software</title>
-                <description>&lt;p&gt;In today’s competitive business landscape, leveraging custom software can be the key to unlocking unprecedented growth. Tailored solutions that meet specific business needs can streamline operations, enhance productivity, and provide a significant competitive edge. Here’s how custom software can propel your business forward.&lt;/p&gt;
-
-&lt;h2 id=&quot;tailored-to-your-unique-needs&quot;&gt;Tailored to Your Unique Needs&lt;/h2&gt;
-
-&lt;p&gt;Unlike off-the-shelf software, &lt;b&gt;custom software&lt;/b&gt; is designed to address the unique requirements of your business. This means you get a solution that fits perfectly with your processes, improving efficiency and reducing the need for workarounds. As Bill Gates once said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The advance of technology is based on making it fit in so that you don’t really even notice it, so it’s part of everyday life.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;By integrating seamlessly into your operations, custom software allows your team to focus on what they do best, rather than struggling with generic tools that don’t quite fit.&lt;/p&gt;
-
-&lt;h2 id=&quot;scalability-and-flexibility&quot;&gt;Scalability and Flexibility&lt;/h2&gt;
-
-&lt;p&gt;One of the most significant advantages of custom software is its scalability. As your business grows, your software can evolve with you, accommodating new processes, increased data loads, and additional users. This flexibility ensures that your &lt;b&gt;technology infrastructure&lt;/b&gt; supports your growth rather than hindering it.&lt;/p&gt;
-
-&lt;p&gt;Custom software can also be adapted quickly to meet changing market conditions or business strategies. This agility is crucial in today’s fast-paced environment, allowing you to stay ahead of the competition and respond swiftly to new opportunities.&lt;/p&gt;
-
-&lt;h2 id=&quot;enhanced-security&quot;&gt;Enhanced Security&lt;/h2&gt;
-
-&lt;p&gt;Security is a top concern for businesses today. Off-the-shelf software can be more vulnerable to widespread attacks because the same vulnerabilities can be exploited across multiple businesses. With &lt;b&gt;custom software&lt;/b&gt;, you have greater control over security measures, ensuring that sensitive data is protected with robust, tailored security protocols.&lt;/p&gt;
-
-&lt;p&gt;As Steve Jobs famously said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Innovation distinguishes between a leader and a follower.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;By investing in custom software, you not only innovate your business processes but also set a higher standard for security, positioning your business as a leader in your industry.&lt;/p&gt;
-
-&lt;h2 id=&quot;better-integration-and-efficiency&quot;&gt;Better Integration and Efficiency&lt;/h2&gt;
-
-&lt;p&gt;Custom software can be designed to integrate seamlessly with your existing systems, eliminating the silos that can hinder productivity. Whether it’s your CRM, ERP, or other critical business systems, custom solutions ensure smooth data flow and cohesive operations.&lt;/p&gt;
-
-&lt;p&gt;This improved integration translates to &lt;b&gt;greater efficiency&lt;/b&gt;, as employees can access the information and tools they need without jumping between disparate systems. Streamlined workflows lead to faster decision-making and enhanced performance across the board.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;Investing in custom software is a strategic move that can unlock substantial growth for your business. By providing tailored solutions, scalability, enhanced security, and better integration, custom software empowers your business to operate at its full potential. Embrace the possibilities of custom software to drive innovation, efficiency, and success in your business journey.&lt;/p&gt;
-
-&lt;section id=&quot;full-width-packages&quot;&gt;
-    &lt;style&gt;
-        /* Full Width Styling for this section */
-        #full-width-packages {
-            width: 100vw;
-            margin-left: calc(-50vw + 50%);
-            
-            padding: 20px 0;
-        }
-
-        /* Pricing Table Layout */
-        .pricing-table {
-            display: flex;
-            justify-content: space-between;
-            align-items: stretch;
-            flex-wrap: wrap;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-
-        /* Compact Pricing Plans */
-        .pricing-plan {
-            background-color: white;
-            border-radius: 6px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-            padding: 15px;
-            width: 31%; /* Ensuring equal width */
-            transition: all 0.2s ease;
-            margin-bottom: 20px;
-            min-width: 280px;
-            font-size: 0.85rem; /* Compact font size */
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-        }
-
-        .pricing-plan:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
-        }
-
-        /* Header of Pricing Cards */
-     /* Compact Header for Pricing Cards */
-.pricing-header {
-    padding: 5px 0; /* Reduced padding to make the header thinner */
-    text-align: center;
-    border-radius: 6px 6px 0 0;
-}
-
-/* Adjusting the Title Font Size */
-.pricing-header h3 {
-    font-size: 1.5rem; /* Reduced title font size for a compact look */
-    margin-bottom: 0;
-    font-weight: bold;
-    color:#d14984;
-
-}
-
-@media (max-width: 768px) {
-            .pricing-header h3 {
-                font-size: 1.1rem; 
-                font-weight: bold;
-            }
-        }
-
-/* Adjusting the Price Font Size */
-.pricing-header .price {
-    font-size: 1rem; /* Reduced price font size */
-    font-weight: bold;
-    margin-top: 0;
-    margin-bottom: 0;
-    color:#d14984;
-}
-
-
-        /* Pricing Body Styling */
-        .pricing-body {
-            padding: 15px 0;
-            flex-grow: 1;
-            font-weight: bold;
-            color: #000;
-        }
-
-        .pricing-body ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-
-        .pricing-body ul li {
-            padding: 5px 0;
-            border-bottom: 1px solid #eee;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-size: 0.8rem; /* Further reduced font size */
-        }
-
-        .pricing-body ul li:last-child {
-            border-bottom: none;
-        }
-
-        /* Green Tick for Included Features */
-        .pricing-body .tick {
-            color: #28a745;
-            font-weight: bold;
-        }
-
-        /* Cross for Not Included Features */
-        .pricing-body .cross {
-            color: red;
-            font-weight: bold;
-        }
-
-        /* Pricing Footer with CTA */
-        .pricing-footer {
-            padding: 10px 0;
-            text-align: center;
-        }
-
-        .pricing-footer a {
-            text-decoration: none;
-            background-color: #28a745;
-            color: white;
-            padding: 8px 15px;
-            border-radius: 4px;
-            font-size: 0.8rem;
-            transition: background-color 0.3s ease;
-        }
-
-        .pricing-footer a:hover {
-            background-color: #218838;
-        }
-
-        /* Ensuring all boxes are the same height */
-        .pricing-plan {
-            display: flex;
-            flex-direction: column;
-            height: 100%;
-        }
-
-        /* Responsive Design for Tablets and Mobiles */
-        @media (max-width: 1200px) {
-            .pricing-plan {
-                width: 45%;
-            }
-        }
-
-        @media (max-width: 768px) {
-            .pricing-plan {
-                width: 90%;
-                margin: 0 auto 20px auto;
-            }
-        }
-    &lt;/style&gt;
-
-    &lt;div class=&quot;pricing-table&quot;&gt;
-        &lt;!-- Essential Plan --&gt;
-        &lt;div class=&quot;pricing-plan&quot;&gt;
-            &lt;div class=&quot;pricing-header&quot;&gt;
-                &lt;h3&gt;Kickstart | £947 per month.&lt;/h3&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;pricing-body&quot;&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Website Management &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;On-page SEO &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Link Building (5 Keywords) &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;5 Hand Crafted Blog Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;5 Google News Press Releases&lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;5 Email Campaigns &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Google MyBusiness &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;30 Social Media Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Analytics &amp;amp; Lead Tracking &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Cloud-based CRM  &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;AI &amp;amp; Data Analysis &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Facebook and Google Ads &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Remarketing &amp;amp; Display &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Code Break-Warranty &lt;span class=&quot;tick&quot;&gt;✅ 3 Months&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Account Management &lt;span class=&quot;tick&quot;&gt;✅ Weekly&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Rolling Contract &lt;span class=&quot;tick&quot;&gt;✅ Cancel Anytime&lt;/span&gt;&lt;/li&gt;
-
-
-                &lt;/ul&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;pricing-footer&quot;&gt;
-                &lt;a href=&quot;https://buy.stripe.com/8wM4iEa4Ugtkf167sE&quot;&gt;Start Your 14-Days Trial &lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-
-        &lt;!-- Growth Plan --&gt;
-        &lt;div class=&quot;pricing-plan&quot;&gt;
-            &lt;div class=&quot;pricing-header&quot;&gt;
-                &lt;h3&gt;Accelerate | £1499 per month.&lt;/h3&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;pricing-body&quot;&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Website Management &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;On-page SEO &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Link Building (10 Keywords) &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;10 Hand Crafted Blog Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;10 Google News Press Releases&lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;10 Email Campaigns &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Google MyBusiness &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;60 Social Media Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Analytics &amp;amp; Lead Tracking &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Cloud-based CRM  &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Limited AI &amp;amp; Data Analysis &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Facebook and Google Ads &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Remarketing &amp;amp; Display &lt;span class=&quot;cross&quot;&gt;❌ Not Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Code Break-Warranty &lt;span class=&quot;tick&quot;&gt;✅ 6 Months&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Account Management &lt;span class=&quot;tick&quot;&gt;✅ Bi-Weekly&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Rolling Contract &lt;span class=&quot;tick&quot;&gt;✅ Cancel Anytime&lt;/span&gt;&lt;/li&gt;
-
-
-                &lt;/ul&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;pricing-footer&quot;&gt;
-                &lt;a href=&quot;https://buy.stripe.com/14k3eA7WMb90bOU3cp&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-
-        &lt;!-- Pro Plan --&gt;
-        &lt;div class=&quot;pricing-plan&quot;&gt;
-            &lt;div class=&quot;pricing-header&quot;&gt;
-                &lt;h3&gt;Enterprise | £2499 per month.&lt;/h3&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;pricing-body&quot;&gt;
-                &lt;ul&gt;
-                    &lt;li&gt;Unlimited Website Management &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Unlimited On-page SEO &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Link Building (Unlimited Keywords) &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Unlimited Hand Crafted Blog Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Unlimited Google News Press Releases&lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Unlimited Email Campaigns &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Google MyBusiness &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Unlimited Social Media Posts &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Analytics &amp;amp; Lead Tracking &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Cloud-based CRM  &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Unlimited Data Analysis &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Facebook &amp;amp; Google Ads &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Remarketing &amp;amp; Display &lt;span class=&quot;tick&quot;&gt;✅ Included&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Code Break-Warranty &lt;span class=&quot;tick&quot;&gt;✅ 12 Months&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Account Management &lt;span class=&quot;tick&quot;&gt;✅ Daily&lt;/span&gt;&lt;/li&gt;
-                    &lt;li&gt;Rolling Contract &lt;span class=&quot;tick&quot;&gt;✅ Cancel Anytime&lt;/span&gt;&lt;/li&gt;
-
-
-                &lt;/ul&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;pricing-footer&quot;&gt;
-                &lt;a href=&quot;https://buy.stripe.com/bIYaH2ela4KC5qw3cq&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-
-</description>
-                <pubDate>Mon, 20 May 2024 12:30:00 +0100</pubDate>
-                <link>/posts/how-to-unlock-growth-with-custom-software</link>
-                <guid isPermaLink="true">/posts/how-to-unlock-growth-with-custom-software</guid>
-                
-                <category>custom software</category>
-                
-                <category>business growth</category>
-                
-                <category>technology</category>
                 
                 
             </item>
