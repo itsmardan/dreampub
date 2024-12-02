@@ -5,9 +5,15 @@
         <description>Entrepreneurs, with passion for a vision, invent the future they want. At Dream Startup, we transform your bsuiness into a standout brand.</description>
         <link> /</link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
         <pubDate>Mon, 02 Dec 2024 19:30:14 +0000</pubDate>
         <lastBuildDate>Mon, 02 Dec 2024 19:30:14 +0000</lastBuildDate>
         <generator>Jekyll v4.3.4</generator>
+=======
+        <pubDate>Thu, 07 Nov 2024 13:08:39 +0000</pubDate>
+        <lastBuildDate>Thu, 07 Nov 2024 13:08:39 +0000</lastBuildDate>
+        <generator>Jekyll v4.3.3</generator>
+>>>>>>> c260e5e9513c98b8cfecc57f76364db8e75c7c00
         
             <item>
                 <title>Wix and WordPress Are Killing Your Brand in the Long Run</title>
@@ -747,7 +753,11 @@
         &lt;!-- Essential Plan --&gt;
         &lt;div class=&quot;pricing-plan&quot;&gt;
             &lt;div class=&quot;pricing-header&quot;&gt;
+<<<<<<< HEAD
                 &lt;h3&gt;Kickstart | £47 per month.&lt;/h3&gt;
+=======
+                &lt;h3&gt;Kickstart | £947 per month.&lt;/h3&gt;
+>>>>>>> c260e5e9513c98b8cfecc57f76364db8e75c7c00
             &lt;/div&gt;
             &lt;div class=&quot;pricing-body&quot;&gt;
                 &lt;ul&gt;
@@ -772,14 +782,22 @@
                 &lt;/ul&gt;
             &lt;/div&gt;
             &lt;div class=&quot;pricing-footer&quot;&gt;
+<<<<<<< HEAD
                 &lt;a href=&quot;https://buy.stripe.com/bIYg1m0uk2Cu7yE7sJ&quot;&gt;Start Your 14-Days Trial &lt;/a&gt;
+=======
+                &lt;a href=&quot;https://buy.stripe.com/8wM4iEa4Ugtkf167sE&quot;&gt;Start Your 14-Days Trial &lt;/a&gt;
+>>>>>>> c260e5e9513c98b8cfecc57f76364db8e75c7c00
             &lt;/div&gt;
         &lt;/div&gt;
 
         &lt;!-- Growth Plan --&gt;
         &lt;div class=&quot;pricing-plan&quot;&gt;
             &lt;div class=&quot;pricing-header&quot;&gt;
+<<<<<<< HEAD
                 &lt;h3&gt;Accelerate | £149 per month.&lt;/h3&gt;
+=======
+                &lt;h3&gt;Accelerate | £1499 per month.&lt;/h3&gt;
+>>>>>>> c260e5e9513c98b8cfecc57f76364db8e75c7c00
             &lt;/div&gt;
             &lt;div class=&quot;pricing-body&quot;&gt;
                 &lt;ul&gt;
@@ -804,14 +822,22 @@
                 &lt;/ul&gt;
             &lt;/div&gt;
             &lt;div class=&quot;pricing-footer&quot;&gt;
+<<<<<<< HEAD
                 &lt;a href=&quot;https://buy.stripe.com/14k16sgtigtk2ek4gw&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
+=======
+                &lt;a href=&quot;https://buy.stripe.com/14k3eA7WMb90bOU3cp&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
+>>>>>>> c260e5e9513c98b8cfecc57f76364db8e75c7c00
             &lt;/div&gt;
         &lt;/div&gt;
 
         &lt;!-- Pro Plan --&gt;
         &lt;div class=&quot;pricing-plan&quot;&gt;
             &lt;div class=&quot;pricing-header&quot;&gt;
+<<<<<<< HEAD
                 &lt;h3&gt;Advance | £649 per month.&lt;/h3&gt;
+=======
+                &lt;h3&gt;Enterprise | £2499 per month.&lt;/h3&gt;
+>>>>>>> c260e5e9513c98b8cfecc57f76364db8e75c7c00
             &lt;/div&gt;
             &lt;div class=&quot;pricing-body&quot;&gt;
                 &lt;ul&gt;
@@ -836,7 +862,11 @@
                 &lt;/ul&gt;
             &lt;/div&gt;
             &lt;div class=&quot;pricing-footer&quot;&gt;
+<<<<<<< HEAD
                 &lt;a href=&quot;https://buy.stripe.com/bIYcPacd21yq7yEdR8&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
+=======
+                &lt;a href=&quot;https://buy.stripe.com/bIYaH2ela4KC5qw3cq&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
+>>>>>>> c260e5e9513c98b8cfecc57f76364db8e75c7c00
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -1146,7 +1176,11 @@
         &lt;!-- Essential Plan --&gt;
         &lt;div class=&quot;pricing-plan&quot;&gt;
             &lt;div class=&quot;pricing-header&quot;&gt;
+<<<<<<< HEAD
                 &lt;h3&gt;Kickstart | £47 per month.&lt;/h3&gt;
+=======
+                &lt;h3&gt;Kickstart | £947 per month.&lt;/h3&gt;
+>>>>>>> c260e5e9513c98b8cfecc57f76364db8e75c7c00
             &lt;/div&gt;
             &lt;div class=&quot;pricing-body&quot;&gt;
                 &lt;ul&gt;
@@ -1171,14 +1205,22 @@
                 &lt;/ul&gt;
             &lt;/div&gt;
             &lt;div class=&quot;pricing-footer&quot;&gt;
+<<<<<<< HEAD
                 &lt;a href=&quot;https://buy.stripe.com/bIYg1m0uk2Cu7yE7sJ&quot;&gt;Start Your 14-Days Trial &lt;/a&gt;
+=======
+                &lt;a href=&quot;https://buy.stripe.com/8wM4iEa4Ugtkf167sE&quot;&gt;Start Your 14-Days Trial &lt;/a&gt;
+>>>>>>> c260e5e9513c98b8cfecc57f76364db8e75c7c00
             &lt;/div&gt;
         &lt;/div&gt;
 
         &lt;!-- Growth Plan --&gt;
         &lt;div class=&quot;pricing-plan&quot;&gt;
             &lt;div class=&quot;pricing-header&quot;&gt;
+<<<<<<< HEAD
                 &lt;h3&gt;Accelerate | £149 per month.&lt;/h3&gt;
+=======
+                &lt;h3&gt;Accelerate | £1499 per month.&lt;/h3&gt;
+>>>>>>> c260e5e9513c98b8cfecc57f76364db8e75c7c00
             &lt;/div&gt;
             &lt;div class=&quot;pricing-body&quot;&gt;
                 &lt;ul&gt;
@@ -1203,14 +1245,22 @@
                 &lt;/ul&gt;
             &lt;/div&gt;
             &lt;div class=&quot;pricing-footer&quot;&gt;
+<<<<<<< HEAD
                 &lt;a href=&quot;https://buy.stripe.com/14k16sgtigtk2ek4gw&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
+=======
+                &lt;a href=&quot;https://buy.stripe.com/14k3eA7WMb90bOU3cp&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
+>>>>>>> c260e5e9513c98b8cfecc57f76364db8e75c7c00
             &lt;/div&gt;
         &lt;/div&gt;
 
         &lt;!-- Pro Plan --&gt;
         &lt;div class=&quot;pricing-plan&quot;&gt;
             &lt;div class=&quot;pricing-header&quot;&gt;
+<<<<<<< HEAD
                 &lt;h3&gt;Advance | £649 per month.&lt;/h3&gt;
+=======
+                &lt;h3&gt;Enterprise | £2499 per month.&lt;/h3&gt;
+>>>>>>> c260e5e9513c98b8cfecc57f76364db8e75c7c00
             &lt;/div&gt;
             &lt;div class=&quot;pricing-body&quot;&gt;
                 &lt;ul&gt;
@@ -1235,7 +1285,11 @@
                 &lt;/ul&gt;
             &lt;/div&gt;
             &lt;div class=&quot;pricing-footer&quot;&gt;
+<<<<<<< HEAD
                 &lt;a href=&quot;https://buy.stripe.com/bIYcPacd21yq7yEdR8&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
+=======
+                &lt;a href=&quot;https://buy.stripe.com/bIYaH2ela4KC5qw3cq&quot;&gt;Start Your 14-Days Trial&lt;/a&gt;
+>>>>>>> c260e5e9513c98b8cfecc57f76364db8e75c7c00
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
